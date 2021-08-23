@@ -19,6 +19,7 @@ It uses some (simple but reasonable) assumptions, and a trained linear regressio
 # Usage with example:
 
 import boston_house_price_valuation as val
+
 val.get_dollar_estimate(4, 20, False, True)
 
 # Created and Tested:
