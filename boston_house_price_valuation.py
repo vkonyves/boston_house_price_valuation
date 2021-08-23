@@ -83,7 +83,7 @@ def get_dollar_estimate(rm , ptratio, chas=False, large_range=True):
     """
     Estimate the price of a property in Boston.
     
-    Keword arguments:
+    Keyword arguments:
     rm -- number of rooms in the property.
     ptratio -- number of students per teacher in the classroom for the school in the area.
     chas -- True if the property is next to the Charles River, False otherwise.
