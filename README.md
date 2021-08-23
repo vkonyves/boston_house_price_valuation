@@ -11,10 +11,10 @@ It uses some (simple but reasonable) assumptions, and a trained linear regressio
 
 # Keyword arguments for get_dollar_estimate:
 
-rm -- Number of rooms in the property.
-ptratio -- Number of students per teacher in the classroom for the school in the area.
-chas -- True if the property is next to the Charles River, False otherwise.
-larger_range -- True for a 95% prediction interval, False for a 68% interval.
+- rm -- Number of rooms in the property.
+- ptratio -- Number of students per teacher in the classroom for the school in the area.
+- chas -- True if the property is next to the Charles River, False otherwise.
+- larger_range -- True for a 95% prediction interval, False for a 68% interval.
 
 # Usage with example:
 
